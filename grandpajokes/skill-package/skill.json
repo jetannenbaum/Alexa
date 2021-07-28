@@ -1,0 +1,33 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:002539270559:function:26013e30-9f8b-4fb8-b5d7-20c80127bc92:Release_0"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "locales": {
+        "en-US": {
+          "description": "Ask for Space Facts, and learn about what really matters, like dark matter.\n\nSpace Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\"",
+          "examplePhrases": [
+            "Alexa open space facts",
+            "Alexa ask space facts for a fact",
+            "Alexa tell space facts to tell me trivia"
+          ],
+          "keywords": [
+            "space",
+            "facts",
+            "trivia"
+          ],
+          "name": "grandpa jokes",
+          "summary": "Learn fun facts about space."
+        }
+      }
+    }
+  }
+}
